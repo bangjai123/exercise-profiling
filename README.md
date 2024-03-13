@@ -4,7 +4,7 @@
 <details>
   <summary>All-Student</summary>
 
-  [result tabel](https://drive.google.com/file/d/1m-uB9d7-l87RvLz9xHs6l8EETXJ8Mgzv/view?usp=drive_link)
+  [result tabel](https://drive.google.com/file/d/184gLNTQA7OkyanmbrYnUQgtHIAPVRGTm/view?usp=drive_link)
 
   [log](https://drive.google.com/file/d/128_D6wS6ogVI24zWwGvt1LdWT4kYT-Ff/view?usp=drive_link)
   
